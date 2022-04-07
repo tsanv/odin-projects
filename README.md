@@ -1,10 +1,12 @@
-#Landing Page Project
+# Projects from The Odin Project
 
 
-##Purpose of Project
-This is my take on the Landing Page project by The Odin Project. Watch as I improve this website as I learn more skills down the road.
+## Purpose of Project
+This is my take on The Odin Project. Watch as I improve my webdev skills as I learn more skills down the road.
 
+Skills learned so far as of 4/7/2022
+1. Basic Foundations (color)
+2. Flexbox
 
-##Credit
-Layout design heavily inspired by The Odin Project.
-https://www.theodinproject.com/lessons/foundations-landing-page
+## Credit
+https://www.theodinproject.com/
