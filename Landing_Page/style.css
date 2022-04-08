@@ -38,10 +38,15 @@ a {
   height: 300px;
   width:250px;
 }
+.text {
+  font-family: Roboto,sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
 
 /*Bottom Banner properties*/
 .bottom_banner {
-  background-color: #3882F6;
+  background-color: #474444;
   margin: 50px 200px;
   padding: 20px;
   color: white;

@@ -15,3 +15,5 @@ https://www.theodinproject.com/lessons/foundations-landing-page
 2. Travel https://pixabay.com/photos/vintage-camera-camera-viewfinder-6835351/
 3. Seattle https://pixabay.com/photos/space-needle-seattle-washington-4792436/
 4. New Orleans https://pixabay.com/photos/new-orleans-louisiana-city-urban-1629597/
+5. Austin https://pixabay.com/photos/austin-texas-bridge-bats-sunset-4064427/
+6. New York City https://pixabay.com/photos/george-washington-bridge-2098351/
