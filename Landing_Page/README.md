@@ -17,3 +17,6 @@ https://www.theodinproject.com/lessons/foundations-landing-page
 4. New Orleans https://pixabay.com/photos/new-orleans-louisiana-city-urban-1629597/
 5. Austin https://pixabay.com/photos/austin-texas-bridge-bats-sunset-4064427/
 6. New York City https://pixabay.com/photos/george-washington-bridge-2098351/
+7. Instagram: https://pixabay.com/vectors/instagram-insta-instagram-logo-3814048/
+8. Facebook: https://pixabay.com/vectors/facebook-face-facebook-icon-2935402/
+9. TikTok: https://pixabay.com/vectors/technology-social-graphic-video-7002886/

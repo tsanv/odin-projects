@@ -112,13 +112,30 @@ a {
   font-weight: bold;
 }
 
-.bottom-text{
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
+.bottom_banner{
+  margin: 100px;
+}
+
+.bottom-text {
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+margin-left: 300px;
+margin-right: 300px;
+border-radius: 10px;
+padding:50px;
 }
 
 
+.action-description{
+  padding:0px;
+  margin:0px;
+}
+
+.socialmedia-img {
+  width: 50px;
+  height:50px;
+}
 
 
 
